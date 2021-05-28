@@ -1,0 +1,79 @@
+13:46:41.869 [INFO    ][deluge.configmanager:52  ] Setting config directory to: /config
+13:46:42.098 [INFO    ][deluge.core.daemon            :69  ] Deluge daemon 2.0.4.dev20
+13:46:42.099 [WARNING ][deluge.core.core              :73  ] Unable to load /config/session.state: [Errno 2] No such file or directory: '/config/session.state'
+13:46:42.100 [WARNING ][deluge.core.core              :73  ] Unable to load /config/session.state.bak: [Errno 2] No such file or directory: '/config/session.state.bak'
+13:46:42.102 [INFO    ][deluge.core.alertmanager      :69  ] Alert Queue Size set to 10000
+13:46:42.115 [INFO    ][deluge.core.rpcserver         :69  ] Starting DelugeRPC server :58846
+13:46:42.117 [INFO    ][twisted                       :154 ] Factory (TLS) starting on 58846
+13:46:42.117 [INFO    ][twisted                       :154 ] Starting factory <twisted.internet.protocol.Factory object at 0x7fdd3c18c670>
+13:46:42.119 [INFO    ][deluge.core.daemon            :69  ] Deluge daemon starting...
+13:46:42.122 [INFO    ][deluge.core.authmanager       :69  ] Opening auth for load: /config/auth
+13:46:42.123 [INFO    ][deluge.core.authmanager       :69  ] Successfully loaded auth: /config/auth
+13:46:42.123 [WARNING ][deluge.core.torrentmanager    :73  ] Bad shutdown detected so archiving state files
+13:46:42.124 [WARNING ][deluge.common                 :195 ] Too many existing archives for state. Deleting oldest archive.
+13:46:42.233 [INFO    ][deluge.core.torrentmanager    :69  ] Loading torrent state: /config/state/torrents.state
+13:46:42.233 [INFO    ][deluge.core.torrentmanager    :69  ] Successfully loaded /config/state/torrents.state
+13:46:42.234 [INFO    ][deluge.core.torrentmanager    :69  ] Opening torrents.fastresume for load: /config/state/torrents.fastresume
+13:46:42.236 [INFO    ][deluge.core.torrentmanager    :69  ] Successfully loaded torrents.fastresume: /config/state/torrents.fastresume
+13:46:42.426 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Harry Potter à l'école des sorciers HEVC 10bits MULTI (VO + VFF) Version Longue from user "localclient" loaded
+13:46:42.427 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Harry Potter et la chambre des secrets HEVC 10bits MULTI (VO + VFF) Version Longue from user "localclient" loaded
+13:46:42.427 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Harry Potter et le Prisonnier d'Azkaban - 3 (2004) [1080p BluRay] [FR(VFF)-EN] [x265 10-bit AC3] [GWEN].mkv from user "localclient" loaded
+13:46:42.429 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Person Of Interest from user "localclient" loaded
+13:46:42.430 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Power.Book.II.Ghost.S01E09.VOSTFR.1080p.AMZN.WEB-DL.DDP5.1.H.264-GOLD.mkv from user "localclient" loaded
+13:46:42.430 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Power.Book.II.Ghost.S01E08.VOSTFR.1080p.AMZN.WEB-DL.DDP5.1.H.264-GOLD.mkv from user "localclient" loaded
+13:46:42.431 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Power.Book.II.Ghost.S01E07.VOSTFR.1080p.AMZN.WEB-DL.DDP5.1.H.264-GOLD.mkv from user "localclient" loaded
+13:46:42.432 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Power.Book.II.Ghost.S01E06.VOSTFR.1080p.AMZN.WEB-DL.DDP5.1.H.264-GOLD.mkv from user "localclient" loaded
+13:46:42.433 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Fullmetal.Alchemist.Brotherhood.iNTEGRALE.MULTi.720p.BluRay.x264-SiDERAL from user "localclient" loaded
+13:46:42.433 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Power.Book.II.Ghost.S01.MULTI.1080P.H265-BONBON from user "localclient" loaded
+13:46:42.434 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Shameless.US.S11E02.FASTSUB.VOSTFR.1080p.AMZN.WEBRip.DDP5.1.x264-P37.mkv from user "localclient" loaded
+13:46:42.435 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Shameless.US.S11E01.VOSTFR.1080p.AMZN.WEB-DL.DDP5.1.H.264.mkv from user "localclient" loaded
+13:46:42.435 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Shameless.US.S11E03.FASTSUB.VOSTFR.1080p.web.h264-P37.mkv from user "localclient" loaded
+13:46:42.436 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Shameless.US.S11E08.FASTSUB.VOSTFR.1080p.WEBRip.x265.10bit.EAC3.5.1-P37.mkv from user "localclient" loaded
+13:46:42.437 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Shameless.US.S11E07.FASTSUB.VOSTFR.1080p.WEB.H264-P37.mkv from user "localclient" loaded
+13:46:42.437 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Shameless.US.S11E06.FASTSUB.VOSTFR.1080p.AMZN.WEB-DL.DDP5.1.H.264-P37.mkv from user "localclient" loaded
+13:46:42.438 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Shameless.US.S11E05.FASTSUB.VOSTFR.1080p.WEB.H264-P37.mkv from user "localclient" loaded
+13:46:42.438 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Shameless.US.S11E04.FASTSUB.VOSTFR.1080p.AMZN.WEB-DL.DDP5.1.H.264-P37.mkv from user "localclient" loaded
+13:46:42.439 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent The.Flash.2014.S07E03.Mother.VOSTFR.1080p.WEB-DL.H265_10b.HE-AAC_5.1-SC1LL4.mkv from user "localclient" loaded
+13:46:42.440 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent The Flash - S07E02 - The Speed of Thought - [VOSTFR][WEB-Rip][1080p][H265_10b][HE-AAC_5.1] - K-T.mkv from user "localclient" loaded
+13:46:42.440 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent The Flash - S07E01 - All's Well That End Wells - [VOSTFR][WEB-Rip][1080p][H265_10b][HE-AAC_5.1] - K-T.mkv from user "localclient" loaded
+13:46:42.441 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Debris.S01E04.FASTSUB.VOSTFR.1080p.WEB.x264-VOiLA from user "localclient" loaded
+13:46:42.442 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Debris.S01E03.FASTSUB.VOSTFR.1080p.WEB.x264-VOiLA from user "localclient" loaded
+13:46:42.442 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Debris.S01E02.FASTSUB.VOSTFR.1080p.WEB.H264-VOiLA from user "localclient" loaded
+13:46:42.443 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Debris.S01E01.FASTSUB.VOSTFR.1080p.WEB.H264-VOiLA from user "localclient" loaded
+13:46:42.443 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Debris.S01E06.FASTSUB.VOSTFR.1080p.WEB.x264-VOiLA from user "localclient" loaded
+13:46:42.444 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Debris.S01E05.FASTSUB.VOSTFR.1080p.WEB.x264-VOiLA from user "localclient" loaded
+13:46:42.445 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Shameless.US.S11E11.FASTSUB.VOSTFR.1080p.AMZN.WEB-DL.DDP5.1.H.264-P37.mkv from user "localclient" loaded
+13:46:42.445 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Shameless.US.S11E10.FASTSUB.VOSTFR.1080p.AMZN.WEB-DL.DDP5.1.H.264-P37.mkv from user "localclient" loaded
+13:46:42.446 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Shameless.US.S11E09.FASTSUB.VOSTFR.1080p.AMZN.WEB-DL.DDP5.1.x264-P37.mkv from user "localclient" loaded
+13:46:42.447 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Mayans.M.C.S03E01.Pap.Struggles.with.the.Death.Angel.1080p.AMZN.WEBRip.DDP5.1.x264-NTb from user "localclient" loaded
+13:46:42.448 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Mayans.M.C.S03E02.The.Orneriness.of.Kings.1080p.AMZN.WEBRip.DDP5.1.x264-NTb from user "localclient" loaded
+13:46:42.450 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Mayans.M.C.S03E03.Overreaching.Dont.Pay.1080p.AMZN.WEBRip.DDP5.1.x264-NTb from user "localclient" loaded
+13:46:42.451 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Mayans.M.C.S03E04.Our.Gangs.Dark.Oath.1080p.AMZN.WEBRip.DDP5.1.x264-NTb from user "localclient" loaded
+13:46:42.452 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Mayans.M.C.S03E05.Dark.Deep-Laid.Plans.1080p.AMZN.WEBRip.DDP5.1.x264-NTb from user "localclient" loaded
+13:46:42.453 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Mayans.M.C.S03E06.You.Cant.Pray.a.Lie.1080p.AMZN.WEBRip.DDP5.1.x264-NTb from user "localclient" loaded
+13:46:42.454 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Mayans.M.C.S03E07.What.Comes.of.Handlin.Snakeskin.1080p.AMZN.WEBRip.DDP5.1.x264-NTb from user "localclient" loaded
+13:46:42.455 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Debris.S01E08.FASTSUB.VOSTFR.1080p.WEB.x264-VOiLA from user "localclient" loaded
+13:46:42.456 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Debris.S01E07.FASTSUB.VOSTFR.1080p.WEB.x264-VOiLA from user "localclient" loaded
+13:46:42.457 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Mayans.M.C.S03E08.A.Mixed-up.and.Splendid.Rescue.1080p.AMZN.WEBRip.DDP5.1.x264-NTb from user "localclient" loaded
+13:46:42.457 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Boku no Hero Academia S05E05 VOSTFR WebRip 1080p x264 AAC.mkv from user "localclient" loaded
+13:46:42.458 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Boku no Hero Academia S05E04 VOSTFR WebRip 1080p x264 AAC.mkv from user "localclient" loaded
+13:46:42.459 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Boku no Hero Academia S05E03 VOSTFR WebRip 1080p x264 AAC.mkv from user "localclient" loaded
+13:46:42.459 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Complement d'enquete - Ultra-droite, la nouvelle menace France 2 2021 VF WEB720 H264 LUNARTAKE.mkv from user "localclient" loaded
+13:46:42.460 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Boku no Hero Academia S05E06 VOSTFR WebRip 1080p x264 AAC.mkv from user "localclient" loaded
+13:46:42.461 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Boku no Hero Academia S05E07 VOSTFR Web-Dl 1080p x264 AAC.mkv from user "localclient" loaded
+13:46:42.461 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent De.Gaulle.2020.VOF.1080p.mHD.x264.AC3-ROMKENT from user "localclient" loaded
+13:46:42.462 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Mayans.M.C.S03E09.The.House.of.Death.Floats.By.1080p.AMZN.WEBRip.DDP5.1.x264-NTb from user "localclient" loaded
+13:46:42.464 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Mayans.M.C.S03E10.Chapter.the.Last.Nothing.more.to.write.1080p.AMZN.WEBRip.DDP5.1.x264-NTb from user "localclient" loaded
+13:46:42.464 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Boku no Hero Academia S05E09 VOSTFR Web-Dl 1080p x264 AAC.mkv from user "localclient" loaded
+13:46:42.465 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Boku no Hero Academia S05E08 VOSTFR WebRip 1080p x265 10bit AAC.mkv from user "localclient" loaded
+13:46:42.466 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Shameless.US.S11E08.FASTSUB.VOSTFR.1080p.AMZN.WEBRip.DDP5.1.x264-P37.mkv from user "localclient" loaded
+13:46:42.466 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Shameless.US.S11E12.FINAL.FASTSUB.VOSTFR.1080p.AMZN.WEB-DL.DDP5.1.H.264-P37.mkv from user "localclient" loaded
+13:46:42.467 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Star.Wars.The.Bad.Batch.S01E04.MULTI.1080p.WEBRip.x264.AAC-SUNNY.mkv from user "localclient" loaded
+13:46:42.467 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Star.Wars.The.Bad.Batch.S01E03.MULTI.1080p.WEBRip.x264.AAC-SUNNY.mkv from user "localclient" loaded
+13:46:42.468 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Star Wars The Bad Batch.S01E02.MULTI.1080p.WEB-DL.H264-FTMVHD from user "localclient" loaded
+13:46:42.469 [INFO    ][deluge.core.torrentmanager    :69  ] Torrent Star Wars The Bad Batch.S01E01.MULTI.1080p.WEB.H264-FTMVHD from user "localclient" loaded
+13:46:42.469 [INFO    ][deluge.core.torrentmanager    :69  ] Finished loading 57 torrents in 0:00:00.236135
+13:46:43.023 [INFO    ][deluge.core.torrentmanager    :69  ] on_alert_external_ip: 213.152.187.230
+13:46:44.634 [INFO    ][deluge.core.rpcserver         :69  ] Deluge Client connection made from: 127.0.0.1:48434
+13:46:44.936 [INFO    ][deluge.core.rpcserver         :69  ] Deluge client disconnected: Connection to the other side was lost in a non-clean fashion: Connection lost.
+13:46:45.528 [INFO    ][deluge.core.rpcserver         :69  ] Deluge Client connection made from: 127.0.0.1:48436
